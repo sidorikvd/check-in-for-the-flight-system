@@ -1,0 +1,8 @@
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\bin\Debug\check-in-for-the-flight-system.exe.config
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\bin\Debug\check-in-for-the-flight-system.exe
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\bin\Debug\check-in-for-the-flight-system.pdb
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\obj\Debug\check-in-for-the-flight-system.csproj.AssemblyReference.cache
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\obj\Debug\check-in-for-the-flight-system.csproj.SuggestedBindingRedirects.cache
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\obj\Debug\check-in-for-the-flight-system.csproj.CoreCompileInputs.cache
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\obj\Debug\check-in-for-the-flight-system.exe
+X:\Программирование\Самообучение\c#\Проекты\check-in-for-the-flight-system\check-in-for-the-flight-system\obj\Debug\check-in-for-the-flight-system.pdb
